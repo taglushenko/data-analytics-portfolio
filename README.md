@@ -21,11 +21,11 @@
 
 ### Google Sheets
 
-- [Анализ выручки, расходов и маркетинговых кампаний салона Waves](./google-sheets-business-analysis)
+- [Анализ выручки, расходов и маркетинговых кампаний салона Waves](./11_google-sheets-business-analysis/)
 
 ### SQL
 
-- Проекты будут добавлены
+- [Анализ данных StackOverflow с помощью SQL](./10_stackoverflow-sql-analysis/)
 
 ### Дашборды
 
