@@ -9,7 +9,7 @@
 
 ### Python
 
-- [Исследование рынка общественного питания Москвы](./09_moscow-food-market-analysis/)
+- [Исследование рынка общественного питания Москвы](./09_moscow-food-market-analysis)
 - [Анализ воронки продаж и A/A/B-теста мобильного приложения](./08_mobile-app-funnel-ab-test)
 - [Приоритизация гипотез и анализ результатов A/B-теста интернет-магазина](./07_ab-test-business-decision-making)
 - [Анализ эффективности маркетинговых инвестиций Procrastinate Pro+](./06_procrastinate-unit-economics)
@@ -21,15 +21,15 @@
 
 ### Google Sheets
 
-- [Анализ выручки, расходов и маркетинговых кампаний салона Waves](./11_google-sheets-business-analysis/)
+- [Анализ выручки, расходов и маркетинговых кампаний салона Waves](./11_google-sheets-business-analysis)
 
 ### SQL
 
-- [Анализ данных StackOverflow с помощью SQL](./10_stackoverflow-sql-analysis/)
+- [Анализ данных StackOverflow с помощью SQL](./10_stackoverflow-sql-analysis)
 
 ### Дашборды
 
-- Проекты будут добавлены
+- [Анализ TED Talks в Tableau](./12_ted-talks-tableau-dashboard)
 
 ## Инструменты
 
@@ -43,6 +43,7 @@
 - Folium
 - Google Sheets
 - Excel
+- Tableau
 
 ## Навыки
 
@@ -59,3 +60,4 @@
 - Юнит-экономика
 - Анализ воронок
 - Анализ пользовательского поведения
+- Построение дашбордов
